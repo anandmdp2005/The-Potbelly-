@@ -1,0 +1,6 @@
+{
+  "name": "The Potbelly – Patna",
+  "description": "Premium restaurant website for The Potbelly – Patna, located inside Bihar Museum on Bailey Road. Explore sample menus, directions, ratings, and reservation inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
